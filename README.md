@@ -62,3 +62,7 @@ The goal of this project is to:
 ---
 
 ## 📂 Project Structure  
+
+## 📎 License  
+This project is open for educational and portfolio use.  
+© 2025 Ayanda Buthanani. All rights reserved.
